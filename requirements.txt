@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+statsmodels
+
+-->To launch the dashboard open a new terminal in your IDE and 
+enter the command [python -m streamlit run app.py] (For Windows).
